@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="AsignaTurns" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/AsignaTurns" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/AsignaTurns" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/AjusteManager.h" />
+		<Unit filename="include/AppManager.h" />
+		<Unit filename="include/Archivo.h" />
+		<Unit filename="include/Fecha.h" />
+		<Unit filename="include/Paciente.h" />
+		<Unit filename="include/PacienteArchivo.h" />
+		<Unit filename="include/PacienteManager.h" />
+		<Unit filename="include/Persona.h" />
+		<Unit filename="include/Profesional.h" />
+		<Unit filename="include/ProfesionalArchivo.h" />
+		<Unit filename="include/ProfesionalManager.h" />
+		<Unit filename="include/RecepcionistaManager.h" />
+		<Unit filename="include/Turno.h" />
+		<Unit filename="include/TurnoArchivo.h" />
+		<Unit filename="include/TurnoManager.h" />
+		<Unit filename="src/AjusteManager.cpp" />
+		<Unit filename="src/AppManager.cpp" />
+		<Unit filename="src/Archivo.cpp" />
+		<Unit filename="src/Fecha.cpp" />
+		<Unit filename="src/Paciente.cpp" />
+		<Unit filename="src/PacienteArchivo.cpp" />
+		<Unit filename="src/PacienteManager.cpp" />
+		<Unit filename="src/Profesional.cpp" />
+		<Unit filename="src/ProfesionalArchivo.cpp" />
+		<Unit filename="src/ProfesionalManager.cpp" />
+		<Unit filename="src/RecepcionistaManager.cpp" />
+		<Unit filename="src/Turno.cpp" />
+		<Unit filename="src/TurnoArchivo.cpp" />
+		<Unit filename="src/TurnoManager.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,368 @@
+# depslib dependency file v1.0
+1717600291 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\archivo.cpp
+	"Archivo.h"
+
+1717596743 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\archivo.h
+	<iostream>
+	<cstring>
+
+1715823117 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<ctime>
+
+1715819857 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\fecha.h
+
+1717597312 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\main.cpp
+	<iostream>
+	<cstdlib>
+	"AppManager.h"
+
+1717596859 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\appmanager.h
+
+1717600604 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\paciente.cpp
+	"Paciente.h"
+	<iostream>
+
+1717603698 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\paciente.h
+	"Persona.h"
+	"Fecha.h"
+	"Turno.h"
+
+1717603684 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\persona.h
+	<string>
+
+1717189877 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\turno.h
+
+1717603142 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\pacientearchivo.cpp
+	"PacienteArchivo.h"
+
+1717597314 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\pacientearchivo.h
+	"Archivo.h"
+	"Paciente.h"
+
+1717461609 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\persona.cpp
+	"Persona.h"
+
+1717453704 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\profesional.cpp
+	"Profesional.h"
+	<iostream>
+
+1717454727 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\profesional.h
+	"Persona.h"
+
+1717190431 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\recepcionistamanager.cpp
+	"RecepcionistaManager.h"
+
+1717188679 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\recepcionistamanager.h
+
+1717190431 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\turno.cpp
+	"Turno.h"
+
+1717602000 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\appmanager.cpp
+	"AppManager.h"
+	"PacienteArchivo.h"
+	"Paciente.h"
+	<iostream>
+
+1717605163 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\src\persona.cpp
+	"Persona.h"
+
+1717881911 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\include\persona.h
+	<cstring>
+
+1717772196 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\src\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"AppManager.h"
+
+1719440910 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<ctime>
+
+1719326666 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\include\fecha.h
+
+1719492828 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\src\turno.cpp
+	"Turno.h"
+	"ProfesionalArchivo.h"
+	"PacienteArchivo.h"
+	"Paciente.h"
+	<iostream>
+
+1719492902 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\include\turno.h
+	"Fecha.h"
+
+1719459001 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\src\paciente.cpp
+	"Paciente.h"
+	"PacienteArchivo.h"
+	<iostream>
+
+1719455132 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\include\paciente.h
+	"Persona.h"
+	"Fecha.h"
+
+1719494516 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\src\pacientearchivo.cpp
+	"PacienteArchivo.h"
+	"Paciente.h"
+	<iostream>
+
+1719429911 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\include\pacientearchivo.h
+	"Paciente.h"
+	"Archivo.h"
+
+1719370322 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\src\archivo.cpp
+	"Archivo.h"
+	<iostream>
+
+1719368571 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\include\archivo.h
+	<string>
+
+1719457467 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\src\profesional.cpp
+	"Profesional.h"
+	"ProfesionalArchivo.h"
+	<iostream>
+
+1719459076 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\include\profesional.h
+	"Persona.h"
+
+1719460397 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\src\profesionalmanager.cpp
+	"ProfesionalManager.h"
+	"ProfesionalArchivo.h"
+	"Profesional.h"
+	<iostream>
+
+1719326666 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\include\profesionalmanager.h
+	"ProfesionalArchivo.h"
+	"Profesional.h"
+	"TurnoArchivo.h"
+	"Turno.h"
+	"Fecha.h"
+
+1719331349 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\src\recepcionistamanager.cpp
+	"RecepcionistaManager.h"
+	"PacienteManager.h"
+	"ProfesionalManager.h"
+	"TurnoManager.h"
+	"AjusteManager.h"
+	<iostream>
+
+1717772547 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\include\recepcionistamanager.h
+
+1719494785 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\include\pacientemanager.h
+	"Paciente.h"
+	"PacienteArchivo.h"
+
+1718223812 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\src\appmanager.cpp
+	"AppManager.h"
+	"RecepcionistaManager.h"
+	"ProfesionalManager.h"
+	<iostream>
+
+1717772660 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\include\appmanager.h
+
+1719441513 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\src\pacientemanager.cpp
+	"PacienteManager.h"
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"TurnoManager.h"
+	<iostream>
+
+1719494697 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\include\profesionalarchivo.h
+	"Profesional.h"
+	"Archivo.h"
+	<string>
+
+1719494674 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\src\profesionalarchivo.cpp
+	"ProfesionalArchivo.h"
+	"Profesional.h"
+	<iostream>
+
+1719459001 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\include\turnomanager.h
+	"Turno.h"
+	"TurnoArchivo.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+
+1719494738 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\include\turnoarchivo.h
+	"Archivo.h"
+	"Turno.h"
+
+1719494779 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\src\turnoarchivo.cpp
+	"TurnoArchivo.h"
+	<iostream>
+
+1719461638 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\src\turnomanager.cpp
+	"TurnoManager.h"
+	<iostream>
+
+1719416418 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\include\ajustemanager.h
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"TurnoArchivo.h"
+	"Turno.h"
+	"Paciente.h"
+	"Profesional.h"
+
+1719497907 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\src\ajustemanager.cpp
+	"AjusteManager.h"
+	"PacienteArchivo.h"
+	<iostream>
+
+1719372701 source:c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\src\ajustearchivo.cpp
+	"AjusteArchivo.h"
+	<iostream>
+
+1719358348 c:\drive\things\utn\tup 2024\materias\lab2\proyectointegrador 2\codeblocks\asignaturns\include\ajustearchivo.h
+	"Archivo.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"TurnoArchivo.h"
+	"Turno.h"
+	"Paciente.h"
+	"Profesional.h"
+	<string>
+
+1719497907 source:c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\src\ajustemanager.cpp
+	"AjusteManager.h"
+	"PacienteArchivo.h"
+	<iostream>
+
+1719416418 c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\include\ajustemanager.h
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"TurnoArchivo.h"
+	"Turno.h"
+	"Paciente.h"
+	"Profesional.h"
+
+1719429911 c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\include\pacientearchivo.h
+	"Paciente.h"
+	"Archivo.h"
+
+1719455132 c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\include\paciente.h
+	"Persona.h"
+	"Fecha.h"
+
+1717881911 c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\include\persona.h
+	<cstring>
+
+1719326666 c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\include\fecha.h
+
+1719368571 c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\include\archivo.h
+	<string>
+
+1719494697 c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\include\profesionalarchivo.h
+	"Profesional.h"
+	"Archivo.h"
+	<string>
+
+1719459076 c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\include\profesional.h
+	"Persona.h"
+
+1719494738 c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\include\turnoarchivo.h
+	"Archivo.h"
+	"Turno.h"
+
+1719492902 c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\include\turno.h
+	"Fecha.h"
+
+1718223812 source:c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\src\appmanager.cpp
+	"AppManager.h"
+	"RecepcionistaManager.h"
+	"ProfesionalManager.h"
+	<iostream>
+
+1717772660 c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\include\appmanager.h
+
+1717772547 c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\include\recepcionistamanager.h
+
+1719326666 c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\include\profesionalmanager.h
+	"ProfesionalArchivo.h"
+	"Profesional.h"
+	"TurnoArchivo.h"
+	"Turno.h"
+	"Fecha.h"
+
+1719370322 source:c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\src\archivo.cpp
+	"Archivo.h"
+	<iostream>
+
+1719440910 source:c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<ctime>
+
+1717772196 source:c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\src\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"AppManager.h"
+
+1719459001 source:c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\src\paciente.cpp
+	"Paciente.h"
+	"PacienteArchivo.h"
+	<iostream>
+
+1719494516 source:c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\src\pacientearchivo.cpp
+	"PacienteArchivo.h"
+	"Paciente.h"
+	<iostream>
+
+1719441513 source:c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\src\pacientemanager.cpp
+	"PacienteManager.h"
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"TurnoManager.h"
+	<iostream>
+
+1719494785 c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\include\pacientemanager.h
+	"Paciente.h"
+	"PacienteArchivo.h"
+
+1719459001 c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\include\turnomanager.h
+	"Turno.h"
+	"TurnoArchivo.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+
+1719457467 source:c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\src\profesional.cpp
+	"Profesional.h"
+	"ProfesionalArchivo.h"
+	<iostream>
+
+1719494674 source:c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\src\profesionalarchivo.cpp
+	"ProfesionalArchivo.h"
+	"Profesional.h"
+	<iostream>
+
+1719460397 source:c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\src\profesionalmanager.cpp
+	"ProfesionalManager.h"
+	"ProfesionalArchivo.h"
+	"Profesional.h"
+	<iostream>
+
+1719331349 source:c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\src\recepcionistamanager.cpp
+	"RecepcionistaManager.h"
+	"PacienteManager.h"
+	"ProfesionalManager.h"
+	"TurnoManager.h"
+	"AjusteManager.h"
+	<iostream>
+
+1719492828 source:c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\src\turno.cpp
+	"Turno.h"
+	"ProfesionalArchivo.h"
+	"PacienteArchivo.h"
+	"Paciente.h"
+	<iostream>
+
+1719494779 source:c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\src\turnoarchivo.cpp
+	"TurnoArchivo.h"
+	<iostream>
+
+1719461638 source:c:\drive\things\utn\tup 2024\materias primer cuatri\lab2\proyectointegrador 2\codeblocks\asignaturns\src\turnomanager.cpp
+	"TurnoManager.h"
+	<iostream>
+
